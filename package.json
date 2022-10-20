@@ -14,7 +14,7 @@
     "history": "^4.6.3",
     "jwt-decode": "^2.2.0",
     "material-ui": "^0.18.5",
-    "mongoose": "^4.11.0",
+    "mongoose": "^4.13.21",
     "morgan": "^1.8.2",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.0",
